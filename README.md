@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI project collaborations
 - 🌱 I’m currently learning ablout Microsoft Platform, Data Science and AI Tools
 - 💞️ I’m looking to collaborate on any projects.
-- 📫 How to reach on Twitter  @myjsocial, @datanasium or @RevelationAI
+- 📫 How to reach on Twitter  @johnolaobaju, @datanasium or @QEDComputing
 
 <
 olaobaju/olaobaju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
