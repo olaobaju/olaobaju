@@ -1,6 +1,6 @@
-- 👋 Hi, I’m John Olaobaju GitHubbing @olaobaju
-- 👀 I’m interested in AI project collaborations
-- 🌱 I’m currently learning about Google Cloud, AWS, Microsoft Platforms, Data Science and AI Tools
+- 👋 Hi, I’m John Olaobaju GitHubbing @datanasium.
+- 👀 I’m interested in Data Science Analytics and AI projects collaborations.
+- 🌱 I’m currently deepening my knwledge of machine learning, and artificial intelligence.
 - 💞️ I’m looking to collaborate on any projects.
 - 📫 How to reach on Twitter  @jsobusiness or @datanasium
 
