@@ -1,4 +1,4 @@
-- 👋 Hi, I’m John Olaobaju GitHubbing @datanasium and @leannot. 
+- 👋 Hi, I’m John Olaobaju GitHubbing @olaobaju.
 - My project site is https://jsoanalytics.github.io
 - 👀 I’m interested in Data Science Analytics and AI projects collaborations.
 - 🌱 I’m currently deepening my knowledge of machine learning, and artificial intelligence.
